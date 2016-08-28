@@ -6,7 +6,9 @@ Made this 'tutorial' or so to speak on ROBLOX when I used to play, I just retrei
 --[PROPERTIES]--
 
 -- Anchored: If this setting is set to true, the part will not fall, if it is false, it will fall.
+
 script.Parent.Anchored = true
+
 -- Transparency: This makes the brick invisible, the higher the number, the more invisible. The max is 1, so you can use decimals.
 script.Parent.Transparency = 0.9
 -- Reflectancy: This will make the sky reflect off of the brick that has this applied onto it.
